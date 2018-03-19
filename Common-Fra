@@ -1,0 +1,8 @@
+"Urgence":"(?iu).*(urg.?n|d[eéè]s que (tu|vou.?) (peu.?|pouv[eé]z?)|on peu.\{0,2}(bosser|travailler)).*",
+"Refus":"(?iu)Non",
+"AttenteRechercheRéponse":"(?iu).*r.?pond.*",
+"Manger":"(?iu).*manger.*",
+"DemandeDeRappel":"(?iu).*(ap.?el.\{0,4}moi|d.croch).*",
+"Occupé":"(?iu).*oc.?up.?(e|é).*",
+"DateVenue":"(?iu)\b(on se|vien.|quan.?|quel.\{0,2}|voi[st]).*",
+"ImprimanteFonctionnePas":"(?iu).*imprim.nte.\{0,4}(fonction.\{0,2}|marche).?p[al][su].*"
